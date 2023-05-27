@@ -14,7 +14,7 @@ Utilização
 
 Ao executar o script, o resultado será impresso na tela e salvo em um arquivo.txt contendo as seguintes informações:
 
-Título do produto
-Preço
-Descrição
+Título do produto,
+Preço,
+Descrição,
 URL da imagem
