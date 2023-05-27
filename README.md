@@ -6,7 +6,7 @@ Instalação
 
 1. Clone o repositório ou faça o download dos arquivos
 2. Certifique-se de ter instalado o Python 3
-3. Instale as bibliotecas necessárias
+3. Instale a biblioteca BeatifulSoup: pip install beautifulsoup4 
 
 Utilização
 
